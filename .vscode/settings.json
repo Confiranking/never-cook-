@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.useLocalIp": true,
+  "editor.tabSize": 4,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.fullReload": true,
+  "liveServer.settings.CustomBrowser": null,
+  "editor.defaultFormatter": null,
+  "editor.defaultFoldingRangeProvider": null,
+  "files.autoSaveDelay": 50,
+  "editor.formatOnSave": false,
+  "liveServer.settings.port": 5501
+}
